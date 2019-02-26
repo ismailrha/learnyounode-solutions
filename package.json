@@ -1,11 +1,41 @@
 {
-  "name": "node-training",
+  "name": "learnyounode-solutions",
   "version": "1.0.0",
-  "description": "learnyounode training",
+  "description": "solutions of learnyounode",
   "main": "challenge2.js",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "bl": "^2.2.0",
+    "cli-cursor": "^2.1.0",
+    "eslint": "^5.14.1",
+    "iconv-lite": "^0.4.24",
+    "prelude-ls": "^1.1.2",
+    "punycode": "^2.1.1",
+    "resolve-from": "^4.0.0",
+    "restore-cursor": "^2.0.0",
+    "run-async": "^2.3.0",
+    "safer-buffer": "^2.1.2",
+    "semver": "^5.6.0",
+    "shebang-command": "^1.2.0",
+    "shebang-regex": "^1.0.0",
+    "signal-exit": "^3.0.2",
+    "sprintf-js": "^1.0.3",
+    "string-width": "^2.1.1",
+    "strip-ansi": "^4.0.0",
+    "supports-color": "^5.5.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailrha/learnyounode-solutions.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ismailrha/learnyounode-solutions/issues"
+  },
+  "homepage": "https://github.com/ismailrha/learnyounode-solutions#readme"
 }
